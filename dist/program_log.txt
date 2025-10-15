@@ -1,0 +1,103 @@
+2025-10-08 17:57:11,800 - INFO - Program spuštěn.
+2025-10-08 18:10:20,475 - INFO - Program spuštěn.
+2025-10-08 18:10:45,342 - INFO - Program spuštěn.
+2025-10-08 18:11:13,934 - WARNING - Heslo špatné délky při registraci uživatele: a
+2025-10-08 18:11:28,601 - WARNING - Neshodná hesla při registraci uživatele: a
+2025-10-08 18:11:31,827 - INFO - Nový uživatel zaregistrován: a
+2025-10-08 18:11:40,513 - INFO - Uživatel přihlášen: a
+2025-10-08 18:11:47,093 - INFO - Text zašifrován uživatelem a
+2025-10-08 18:11:47,620 - INFO - Text dešifrován uživatelem a
+2025-10-08 18:11:52,847 - INFO - Text zašifrován uživatelem a
+2025-10-08 18:11:53,180 - INFO - Text dešifrován uživatelem a
+2025-10-08 18:11:53,932 - INFO - Text zašifrován uživatelem a
+2025-10-08 18:11:54,856 - INFO - Text dešifrován uživatelem a
+2025-10-08 18:36:18,982 - INFO - Program spuštěn.
+2025-10-08 18:40:29,925 - INFO - Program spuštěn.
+2025-10-08 18:42:55,047 - INFO - Program spuštěn.
+2025-10-09 14:25:32,283 - INFO - Program spuštěn.
+2025-10-09 14:26:28,211 - WARNING - Neshodná hesla při registraci uživatele: venuška
+2025-10-09 14:26:30,829 - WARNING - Heslo špatné délky při registraci uživatele: venuška
+2025-10-09 14:26:42,411 - INFO - Nový uživatel zaregistrován: venuška
+2025-10-09 14:27:28,651 - INFO - Uživatel přihlášen: venuška
+2025-10-09 14:27:44,477 - INFO - Text zašifrován uživatelem venuška
+2025-10-09 14:27:44,905 - INFO - Text dešifrován uživatelem venuška
+2025-10-09 14:27:45,490 - INFO - Text zašifrován uživatelem venuška
+2025-10-09 14:27:46,076 - INFO - Text dešifrován uživatelem venuška
+2025-10-09 14:27:48,582 - INFO - Text zašifrován uživatelem venuška
+2025-10-09 14:27:49,902 - INFO - Text dešifrován uživatelem venuška
+2025-10-09 14:29:33,119 - INFO - Program spuštěn.
+2025-10-09 16:51:23,250 - INFO - Program spuštěn.
+2025-10-09 16:51:45,410 - INFO - Uživatel přihlášen: a
+2025-10-09 16:53:48,896 - INFO - Program spuštěn.
+2025-10-09 16:54:00,104 - INFO - Uživatel přihlášen: a
+2025-10-10 17:48:19,846 - INFO - Program spuštěn.
+2025-10-10 17:48:35,308 - INFO - Program spuštěn.
+2025-10-10 17:49:13,887 - WARNING - Neshodná hesla při registraci uživatele: 1
+2025-10-10 17:49:20,963 - INFO - Nový uživatel zaregistrován: 1
+2025-10-10 17:49:36,381 - ERROR - Neplatný login pokus: 1
+2025-10-10 17:49:40,155 - INFO - Uživatel přihlášen: 1
+2025-10-10 17:49:49,373 - INFO - Text zašifrován uživatelem 1
+2025-10-13 17:42:08,905 - INFO - Program spuštěn.
+2025-10-13 17:42:14,213 - ERROR - Neplatný login pokus: hi
+2025-10-13 17:42:19,516 - WARNING - Heslo špatné délky při registraci uživatele: hi
+2025-10-13 17:42:28,943 - WARNING - Heslo špatné délky při registraci uživatele: hi
+2025-10-13 17:42:33,883 - INFO - Nový uživatel zaregistrován: hi
+2025-10-13 17:42:42,171 - INFO - Uživatel přihlášen: hi
+2025-10-13 17:42:46,158 - INFO - Text zašifrován uživatelem hi
+2025-10-13 17:42:46,646 - INFO - Text dešifrován uživatelem hi
+2025-10-13 17:42:47,668 - INFO - Text zašifrován uživatelem hi
+2025-10-13 17:42:48,043 - INFO - Text dešifrován uživatelem hi
+2025-10-13 17:42:50,619 - INFO - Text zašifrován uživatelem hi
+2025-10-13 17:42:51,065 - INFO - Text dešifrován uživatelem hi
+2025-10-13 17:42:51,664 - INFO - Text zašifrován uživatelem hi
+2025-10-13 17:42:52,136 - INFO - Text dešifrován uživatelem hi
+2025-10-13 17:42:53,780 - INFO - Text zašifrován uživatelem hi
+2025-10-13 17:42:54,160 - INFO - Text zašifrován uživatelem hi
+2025-10-13 17:42:54,380 - INFO - Text zašifrován uživatelem hi
+2025-10-13 17:42:55,365 - INFO - Text dešifrován uživatelem hi
+2025-10-13 17:42:55,575 - INFO - Text dešifrován uživatelem hi
+2025-10-13 17:42:57,253 - INFO - Text dešifrován uživatelem hi
+2025-10-13 17:43:01,817 - INFO - Text zašifrován uživatelem hi
+2025-10-13 17:43:02,349 - INFO - Text zašifrován uživatelem hi
+2025-10-13 17:43:03,157 - INFO - Text dešifrován uživatelem hi
+2025-10-13 17:43:12,467 - INFO - Text zašifrován uživatelem hi
+2025-10-13 17:43:13,329 - INFO - Text dešifrován uživatelem hi
+2025-10-13 17:43:26,764 - INFO - Program spuštěn.
+2025-10-13 17:43:31,982 - INFO - Uživatel přihlášen: 1
+2025-10-13 17:43:36,410 - INFO - Program spuštěn.
+2025-10-13 17:44:01,737 - WARNING - Pokus o registraci existujícího uživatele: admin
+2025-10-13 17:44:08,551 - WARNING - Neshodná hesla při registraci uživatele: admin1
+2025-10-13 17:44:10,082 - WARNING - Neshodná hesla při registraci uživatele: admin1
+2025-10-13 17:44:10,502 - WARNING - Neshodná hesla při registraci uživatele: admin1
+2025-10-13 17:44:21,610 - INFO - Nový uživatel zaregistrován: admin1
+2025-10-13 17:44:36,552 - INFO - Program spuštěn.
+2025-10-13 17:44:41,005 - INFO - Program spuštěn.
+2025-10-13 17:44:41,216 - INFO - Program spuštěn.
+2025-10-13 17:44:41,438 - INFO - Program spuštěn.
+2025-10-13 17:44:41,644 - INFO - Program spuštěn.
+2025-10-13 17:44:42,376 - INFO - Program spuštěn.
+2025-10-13 17:44:42,749 - INFO - Program spuštěn.
+2025-10-13 17:44:42,896 - INFO - Program spuštěn.
+2025-10-13 17:44:45,811 - INFO - Program spuštěn.
+2025-10-13 17:46:12,385 - INFO - Program spuštěn.
+2025-10-13 17:46:16,461 - INFO - Program spuštěn.
+2025-10-13 17:46:20,031 - INFO - Program spuštěn.
+2025-10-13 17:46:20,230 - INFO - Program spuštěn.
+2025-10-13 17:46:20,659 - INFO - Program spuštěn.
+2025-10-13 17:46:21,038 - INFO - Program spuštěn.
+2025-10-13 17:46:22,164 - INFO - Program spuštěn.
+2025-10-13 17:46:22,349 - INFO - Program spuštěn.
+2025-10-13 17:46:26,611 - INFO - Program spuštěn.
+2025-10-13 18:02:24,181 - INFO - Program spuštěn.
+2025-10-13 18:05:33,752 - INFO - Program spuštěn.
+2025-10-13 18:06:13,287 - INFO - Uživatel přihlášen: admin1
+2025-10-13 18:06:18,595 - INFO - Text zašifrován uživatelem admin1
+2025-10-13 18:06:19,451 - INFO - Text dešifrován uživatelem admin1
+2025-10-13 18:08:29,166 - INFO - Text dešifrován uživatelem admin1
+2025-10-13 18:08:45,946 - INFO - Program spuštěn.
+2025-10-13 18:08:51,835 - INFO - Program spuštěn.
+2025-10-13 18:08:52,074 - INFO - Program spuštěn.
+2025-10-13 18:08:52,316 - INFO - Program spuštěn.
+2025-10-13 18:08:52,480 - INFO - Program spuštěn.
+2025-10-13 18:08:52,571 - INFO - Program spuštěn.
+2025-10-13 18:08:52,714 - INFO - Program spuštěn.
