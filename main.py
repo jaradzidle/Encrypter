@@ -270,7 +270,7 @@ def show_gif(username):
 
     frames = []   # List to store frames of the GIF
     i = 0         # Start frame index
-    path = r"C:\image\loading.gif"  # Path to your GIF file
+    path = r"dist/Loading.gif"  # Path to your GIF file
 
     # Load all frames from the GIF
     while True:
@@ -346,3 +346,4 @@ def show_main(username):
 # ---- MAIN LOOP ----
 # Start the tkinter event loop (keeps window open)
 window.mainloop()
+
